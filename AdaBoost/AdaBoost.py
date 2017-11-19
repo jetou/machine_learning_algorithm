@@ -1,6 +1,6 @@
 """
     @ jetou
-    @ support_vector_machine dual algorithm
+    @ AdaBoost algorithm
     @ date 2017 11 19
 
 """
